@@ -1,13 +1,38 @@
-# WELCOME to ALOC's WORLD！
+# WELCOME TO ALOC's WORLD！
 
-These are the tools of the network.
+This is a non - mainstream hacker tool for ALOC.
 
-The author is a primary school student in China, with a limited level. 
+Welcome you to provide new ideas or suggestions for improvement. 
 
-If there is a problem with the code, please point out～
+Some programs are copied from the Internet, and if they are not authorized, please send mail to KedorLink@outlook.com. 
 
-If you need to get any information, you can send mail to KedorLink@outlook.com
+In addition, do not take advantage of their unauthorized access to other people's systems.
 
-这里将会有搜刮来的大量工具以及自己编写的程序。如果侵犯权限，请在评论区中提出。
+# ABOUT THE AUTHER 
+
+The author is a primary school student in China, with a limited level.
+
+If there is a problem with the code, please point out.
+
+# ELSE
+ 
+BILIBILI:https://space.bilibili.com/31429218/
+
+QQ:1115754858
+
+E-mail:KedorLink@outlook.com
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
 
 
