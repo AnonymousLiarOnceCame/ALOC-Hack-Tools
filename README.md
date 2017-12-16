@@ -8,7 +8,7 @@ Some programs are copied from the Internet, and if they are not authorized, plea
 
 In addition, do not take advantage of their unauthorized access to other people's systems.
 
-# ABOUT THE AUTHER 
+# ABOUT THE AUTHOR 
 
 The author is a primary school student in China, with a limited level.
 
