@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <mstcpip.h>
 #include <linux/ip.h>
+#include <winsock.h>
 #pragma comment(lib, "Advapi32.lib")
 #ifndef __PROTOINFO_H__
 #define __PROTOINFO_H__
