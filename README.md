@@ -2,9 +2,9 @@
 
 This is a non - mainstream hacker tool for ALOC.
 
-Welcome you to provide new ideas or suggestions for improvement. 
+Welcome you to provide new ideas or suggestions for the improvement. 
 
-Some programs are copied from the Internet, and if they are not authorized, please send mail to KedorLink@outlook.com. 
+Some programs are copied from the Internet...so if they are not authorized, please send mails to KedorLink@outlook.com. 
 
 In addition, do not take advantage of their unauthorized access to other people's systems.
 
@@ -12,15 +12,15 @@ In addition, do not take advantage of their unauthorized access to other people'
 
 The author is a primary school student in China, with a limited level.
 
-If there is a problem with the code, please point out.
+If there is any problem with the code, please point it out.
 
 ### ELSE
  
-BILIBILI:https://space.bilibili.com/31429218/
+BILIBILI: https://space.bilibili.com/31429218/
 
-QQ:1115754858
+QQ: 1115754858
 
-E-mail:KedorLink@outlook.com
+E-mail: KedorLink@outlook.com
 
 
 
